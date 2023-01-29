@@ -1,0 +1,43 @@
+
+body{
+    background: url(sunset-1373171__480.jpg);
+   
+    background-size: cover;
+   
+
+}
+ul{
+    list-style: none;
+}
+div{
+    margin-top: 3%;
+    margin-left:15%;
+    margin-right:15% ;
+    padding: 5px;
+    width: 70%;
+    height: fit-content;
+    background-color: rgb(114, 46, 146);
+    border-radius: 15px;
+}
+h1{
+    text-align: center !important;
+    font-size: 40px;
+    color: white;
+    margin-top: 50px;
+}
+form input{
+    border-radius: 5px;
+    position: relative;
+    display: inline-block;
+    font-size:20px ;
+
+}
+
+#rect{
+    align-items: center;
+    height: fit-content;
+   
+}
+.txt{
+    color: rgb(67, 230, 67);
+}
